@@ -1,6 +1,6 @@
 from mcstats import mcstats
 
-mining_blocks [
+mining_blocks = [
     "minecraft:obsidian",
     "minecraft:ancient_debris",
     "minecraft:coal_ore",
