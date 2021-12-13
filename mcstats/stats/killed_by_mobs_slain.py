@@ -18,6 +18,6 @@ mcstats.registry.append(
         {
             'unit': 'int',
         },
-        mcstats.StatReader(['minecraft:killed_by'], mobList)
+        mcstats.StatSumMatchReader(['minecraft:killed_by'], mobList)
     )
 )
