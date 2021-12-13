@@ -21,9 +21,8 @@ body {
     color: #EEE;
 
     background-color: black;
-    background-image: url('img/bg/grass_side.png'), url('img/bg/dirt.png'), url('img/bg/stone.png');
-    background-position: left top, left 64px, left 128px;
-    background-repeat: repeat-x, repeat-x, repeat;
+    background-image: url('img/bg/background.png');
+    background-repeat: no-repeat;
 }
 
 /* Links */
