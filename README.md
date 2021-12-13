@@ -5,6 +5,8 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt)
 [![Discord](https://img.shields.io/discord/850982115633790976.svg?label=Discord&logo=discord&logoColor=ffffff&color=8399E8&labelColor=7A7EC2)](https://discord.gg/brH5PGG8By)
 
+### This is a fork from pdinklag's version of this software
+
 _MinecraftStats_ is a web browser application for the [statistics](http://minecraft.gamepedia.com/Statistics) that Minecraft servers collect about players.
 
 The presentation is done by giving __awards__ to players for certain achievements. For example, the player who played on the server for the longest total time receives the _Addict_ award. Every award has a viewable ranking associated to it with __medals__ - the award holder gets the gold medal, the second the silver medal and the third the bronze medal for the award. Each medal gives players a __crown score__ (1 for every bronze medal, 2 for every silver, 4 for every gold medal), which is displayed in a server __hall of fame__.
@@ -21,7 +23,7 @@ This section describes how to set up _MinecraftStats_ to work on your server.
 ### Compatibility
 _MinecraftStats_ is compatible only to Minecraft 1.13 or later (more precisely: snapshot [17w47a](https://minecraft.gamepedia.com/17w47a) or later).
 
-I am trying to keep the statistics up to date with new Minecraft versions. However, Mojang sometimes decide to rename entity or statistic IDs, which may break some awards. I am trying my best to update accordingly, but please don't hesitate to [open an issue](https://github.com/pdinklag/MinecraftStats/issues) in case you notice something is wrong!
+I am trying to keep the statistics up to date with new Minecraft versions. However, Mojang sometimes decide to rename entity or statistic IDs, which may break some awards. I am trying my best to update accordingly, but please don't hesitate to [open an issue](https://github.com/braydofficial/MinecraftStats/issues) in case you notice something is wrong!
 
 ### Requirements
 _Python 3.4_ or later is required to feed _MinecraftStats_ with your server's data.
@@ -31,7 +33,7 @@ _Python 3.4_ or later is required to feed _MinecraftStats_ with your server's da
 I recommend using git to check out the `master` branch of this repository somewhere under your webserver's document root (e.g. `/var/www/html`), as it makes updating easier (see below).
 
 ```sh
-git clone https://github.com/pdinklag/MinecraftStats.git
+git clone https://github.com/braydofficial/MinecraftStats.git
 ```
 
 However, downloading the repository as a zip file and unpacking it there will work as well.
