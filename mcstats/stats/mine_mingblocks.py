@@ -35,12 +35,12 @@ mining_blocks = [
     "minecraft:infested_.+"
 ]
 
-mcstats.registry.append(
-    mcstats.MinecraftStat(
-        'mine_miningblocks',
-        {
-            'unit': 'int',
-        },
-        mcstats.StatReader(['minecraft:mined'], mining_blocks)
-    )
-)
+# mcstats.registry.append(
+#    mcstats.MinecraftStat(
+#        'mine_miningblocks',
+#        {
+#            'unit': 'int',
+#        },
+#        mcstats.StatReader(['minecraft:mined'], mining_blocks)
+#    )
+#)
