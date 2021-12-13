@@ -19,5 +19,5 @@ mcstats.registry.append(
             'unit': 'int',
         },
         mcstats.StatReader(['minecraft:killed_by'], mobList)
-        mcstats.StatReader()
-    ))
+    )
+)
