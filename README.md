@@ -15,7 +15,7 @@ The system is highly customizable. All the awards are defined in Python modules 
 
 A live demo of _MinecraftStats_ in action is available here: [DVG Snapshot Stats](http://mine3.dvgaming.com/)
 
-Feel free to join the project [Discord](https://discord.gg/brH5PGG8By) 
+Feel free to join the project [Discord](https://discord.gg/brH5PGG8By) (official Discord by original creator)
 
 ## Setup Guide
 This section describes how to set up _MinecraftStats_ to work on your server.
