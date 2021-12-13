@@ -71,7 +71,7 @@ building_blocks = [
 
 mcstats.registry.append(
     mcstats.MinecraftStat(
-        "place_stairs",
+        "place_buildingblocks",
         {
             "unit": "int",
         },
