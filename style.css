@@ -22,7 +22,6 @@ body {
 
     background-color: black;
     background-image: url('img/bg/background.png');
-    background-position: left top, left 64px, left 128px;
     background-repeat: no-repeat;
 }
 
@@ -217,9 +216,6 @@ a.dropdown-item:hover {
     border-radius: 0.75rem;
 
     background-image: url('img/bg/stonebrick.png');
-}
-
-.minecraft-face {
 }
 
 #header {
