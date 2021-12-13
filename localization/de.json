@@ -273,6 +273,8 @@
     "award.kill_zombie_pigman.title": "Nether-Bandenkrieg",
     "award.kill_zombified_piglin.desc": "Zombifizierte Piglins getötet",
     "award.kill_zombified_piglin.title": "Nether-Bandenkrieg",
+    "award.killed_by_mobs_slain.desc": "Von Eisengolems, Zombies, Hoglins, Piglins, Ravagern oder Wither Skeletten erschlagen",
+    "award.killed_by_mobs_slain.title": "Erschlagen",
     "award.killed_by_creeper.desc": "Tode durch Creeper",
     "award.killed_by_creeper.title": "Kabumm!",
     "award.mine_amethyst.desc": "Amethyste gefördert",

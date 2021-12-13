@@ -273,6 +273,8 @@
     "award.kill_zombie_pigman.title": "Nether Gang War",
     "award.kill_zombified_piglin.desc": "Zombified Piglins killed",
     "award.kill_zombified_piglin.title": "Nether Gang War",
+    "award.killed_by_mobs_slain.desc": "Slain by Iron-Golems, Zombies, Hoglins, Piglins, Ravagers or Wither Skelettons",
+    "award.killed_by_mobs_slain.title": "Slain",
     "award.killed_by_creeper.desc": "Times Killed by Creepers",
     "award.killed_by_creeper.title": "Keboom!",
     "award.mine_amethyst.desc": "Amethysts mined",
