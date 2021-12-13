@@ -3,7 +3,7 @@
 [![Example Installation at DVGaming.com](https://img.shields.io/badge/Example-DVGaming.COM%20Snapshot%20Server-blue)](http://mine3.dvgaming.com/)
 [![Minecraft 1.13 to 1.17](https://img.shields.io/badge/Minecraft-1.13%20--%201.17-brightgreen)](https://www.minecraft.net/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt)
-[![Discord](https://img.shields.io/discord/850982115633790976.svg?label=Discord&logo=discord&logoColor=ffffff&color=8399E8&labelColor=7A7EC2)](https://discord.gg/brH5PGG8By)
+![Lines of code](https://img.shields.io/tokei/lines/github/braydofficial/MinecraftStats)
 
 ### This is a fork from pdinklag's version of this software
 
@@ -262,3 +262,6 @@ In an effort to reduce client traffic, the JavaScript and CSS files of the web U
 _MinecraftStats_ is released under the [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. This means you can pretty much use and modify it freely, with the only requirements being attribution and not putting it under restrictive (e.g., commercial) licenses if modified.
 
 Concerning the _attribution_ part, the only requirement is that you provide a visible link to [this original repository](https://github.com/pdinklag/MinecraftStats) in your installment. The easiest way to do this is by not removing it from the `index.html` footer, where you will also find a reminder about this.
+
+
+<a href="https://www.buymeacoffee.com/braydofficial"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=braydofficial&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
