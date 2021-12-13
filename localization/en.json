@@ -1,7 +1,6 @@
 {
     "display": "English",
     "locale": "en-US",
-    
     "loading": "Loading ...",
     "nobody": "(nobody)",
     "info.lastUpdate": "Last update:",
@@ -336,6 +335,8 @@
     "award.place_banner.title": "Flying Flags",
     "award.place_bars.desc": "Iron bars & chains placed",
     "award.place_bars.title": "Jailer",
+    "award.place_buildblocks.desc": "Buildblocks placed",
+    "award.place_buildblocks.title": "The old Builder",
     "award.place_cactus.desc": "Cacti planted",
     "award.place_cactus.title": "Cactus Farmer",
     "award.place_candle.desc": "Candles placed",

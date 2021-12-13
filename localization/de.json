@@ -1,7 +1,6 @@
 {
     "display": "Deutsch",
     "locale": "de-DE",
-    
     "loading": "Lädt ...",
     "nobody": "(niemand)",
     "info.lastUpdate": "Letzte Aktualisierung:",
@@ -336,6 +335,8 @@
     "award.place_banner.title": "Propaganda",
     "award.place_bars.desc": "Eisengitter & Ketten platziert",
     "award.place_bars.title": "Gefängniswärter",
+    "award.place_buildblocks.desc": "Baublöcke platziert",
+    "award.place_buildblocks.title": "Der alte Bauarbeiter",
     "award.place_cactus.desc": "Kakteen gefplanzt",
     "award.place_cactus.title": "Kaktusfarmer",
     "award.place_candle.desc": "Kerzen platziert",
