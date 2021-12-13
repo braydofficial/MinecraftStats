@@ -66,6 +66,8 @@ building_blocks = [
     "minecraft:*iron_block",
     "minecraft:*gold_block",
     "minecraft:diamond_block",
+    "minecraft:cobblestone",
+    "minecraft:stone",
     "minecraft:mossy_cobblestone",
 ]
 
