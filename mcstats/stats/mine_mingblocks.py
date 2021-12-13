@@ -42,4 +42,5 @@ mcstats.registry.append(
             'unit': 'int',
         },
         mcstats.StatReader(['minecraft:mined'], mining_blocks)
-    ))
+    )
+)

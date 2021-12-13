@@ -80,6 +80,6 @@ mcstats.registry.append(
             "unit": "int",
         },
         # subtract mined from placed
-        mcstats.StatSumMatchReader(["minecraft:used"], building_blocks),
+        mcstats.StatSumMatchReader(["minecraft:used"], building_blocks)
     )
 )
