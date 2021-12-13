@@ -23,7 +23,6 @@ mcstats.registry.append(
             mcstats.StatReader(['minecraft:used','minecraft:melon_slice']),
             mcstats.StatReader(['minecraft:used','minecraft:mushroom_stew']),
             mcstats.StatReader(['minecraft:used','minecraft:potato']),
-            mcstats.StatReader(['minecraft:used','minecraft:pumpkin_pie']),
             mcstats.StatReader(['minecraft:used','minecraft:sweet_berries']),
         ])
     ))
