@@ -5,7 +5,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt)
 ![Lines of code](https://img.shields.io/tokei/lines/github/braydofficial/MinecraftStats)
 
-### This is a fork from pdinklag's version of this software
+### This is a fork from pdinklag's version of this software with some tweaks to fit my personal needs
 
 _MinecraftStats_ is a web browser application for the [statistics](http://minecraft.gamepedia.com/Statistics) that Minecraft servers collect about players.
 
