@@ -1,7 +1,7 @@
 # MinecraftStats
 
 [![Example Installation at DVGaming.com](https://img.shields.io/badge/Example-DVGaming.COM%20Snapshot%20Server-blue)](http://mine3.dvgaming.com/)
-[![Minecraft 1.13 to 1.17](https://img.shields.io/badge/Minecraft-1.13%20--%201.17-brightgreen)](https://www.minecraft.net/)
+[![Minecraft 1.13 to 1.18](https://img.shields.io/badge/Minecraft-1.13%20--%201.18-brightgreen)](https://www.minecraft.net/)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://github.com/pdinklag/MinecraftStats/blob/master/LICENSE.txt)
 ![Lines of code](https://img.shields.io/tokei/lines/github/braydofficial/MinecraftStats)
 
